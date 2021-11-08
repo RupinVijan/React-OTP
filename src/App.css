@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+.popup{
+  height: 500px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: royalblue;
+  margin: auto;
+}
+.inp{
+  width: 35px;
+  height: 35px;
+  font-size: 1rem;
+  margin: 10px 4px;
+}
+.btn{
+  text-align: center;
+  background-color: rebeccapurple;
+  color: white;
+  font-size: 1.2rem;
+  outline: none;
+
+}
